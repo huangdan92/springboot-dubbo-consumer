@@ -1,6 +1,7 @@
 package com.neoniou.consumer.controller;
 
-import com.neoniou.demo.serivce.SayService;
+
+import com.neoniou.provider.service.impl.SayService;
 import org.apache.dubbo.config.annotation.DubboReference;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
