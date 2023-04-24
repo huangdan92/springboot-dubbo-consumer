@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>dubbo</artifactId>
-    <version>0.0.15510-consumer</version>
+    <version>0.0.14510-consumer</version>
     <name>consumer</name>
     <description>controllService</description>
     <modelVersion>4.0.0</modelVersion>
